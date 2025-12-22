@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel del Cocinero</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="dashboard">
+        <header class="dashboard-header">
+            <h1>Panel del Cocinero</h1>
+            <div class="user-info">
+                <span>Sistema de Pedidos</span>
+            </div>
+        </header>
+
+        <div class="dashboard-content">
+            <div class="panel pedidos-cocina">
+                <h2>Pedidos Recibidos</h2>
+                <div id="listaPedidos" class="pedidos-grid"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="notificacion" class="notificacion"></div>
+
+    <script src="https://cdn.socket.io/4.6.1/socket.io.min.js"></script>
+   <script src="js/cocinero.js"></script>
+</body>
+</html>

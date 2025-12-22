@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "numeroMesa": 1,
+    "cliente": "Juan Pérez",
+    "capacidad": 4,
+    "estado": "ocupada"
+  },
+  {
+    "id": 2,
+    "numeroMesa": 2,
+    "cliente": "María García",
+    "capacidad": 2,
+    "estado": "ocupada"
+  },
+  {
+    "id": 3,
+    "numeroMesa": 3,
+    "cliente": "Carlos López",
+    "capacidad": 6,
+    "estado": "ocupada"
+  },
+  {
+    "id": 4,
+    "numeroMesa": 4,
+    "cliente": "Ana Martínez",
+    "capacidad": 4,
+    "estado": "ocupada"
+  },
+  {
+    "id": 5,
+    "numeroMesa": 5,
+    "cliente": "",
+    "capacidad": 4,
+    "estado": "disponible"
+  },
+  {
+    "id": 6,
+    "numeroMesa": 6,
+    "cliente": "",
+    "capacidad": 2,
+    "estado": "disponible"
+  },
+  {
+    "id": 7,
+    "numeroMesa": 7,
+    "cliente": "Pedro Ramírez",
+    "capacidad": 8,
+    "estado": "ocupada"
+  },
+  {
+    "id": 8,
+    "numeroMesa": 8,
+    "cliente": "",
+    "capacidad": 4,
+    "estado": "disponible"
+  }
+]
