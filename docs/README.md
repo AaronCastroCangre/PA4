@@ -8,6 +8,7 @@ Sistema de gestión de pedidos en tiempo real para restaurantes.
 2. [Arquitectura del Backend](./backend.md)
 3. [Arquitectura del Frontend](./frontend.md)
 4. [API Reference](./api.md)
+5. [Diagramas (Mermaid)](./diagramas.md)
 
 ## Descripción General
 
