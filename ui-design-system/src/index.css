@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  /* Retro color palette */
+  --color-retro-blue: #3B82F6;
+  --color-retro-blue-dark: #2563EB;
+  --color-retro-pink: #EC4899;
+  --color-retro-pink-dark: #DB2777;
+  --color-retro-yellow: #FBBF24;
+  --color-retro-yellow-dark: #F59E0B;
+  --color-retro-green: #10B981;
+  --color-retro-green-dark: #059669;
+  --color-retro-red: #EF4444;
+  --color-retro-red-dark: #DC2626;
+  --color-retro-purple: #8B5CF6;
+  --color-retro-purple-dark: #7C3AED;
+  --color-retro-orange: #F97316;
+  --color-retro-orange-dark: #EA580C;
+  --color-retro-cyan: #06B6D4;
+  --color-retro-cyan-dark: #0891B2;
+
+  /* Retro neutrals */
+  --color-retro-black: #1a1a1a;
+  --color-retro-white: #FFFEF5;
+  --color-retro-cream: #FEF9E7;
+  --color-retro-gray: #6B7280;
+
+  /* Shadow for retro effect */
+  --shadow-retro-sm: 2px 2px 0px 0px var(--color-retro-black);
+  --shadow-retro: 3px 3px 0px 0px var(--color-retro-black);
+  --shadow-retro-lg: 4px 4px 0px 0px var(--color-retro-black);
+  --shadow-retro-none: 0px 0px 0px 0px var(--color-retro-black);
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
